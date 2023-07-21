@@ -4,11 +4,11 @@ The user enters more than input, and the system will get the file that contains 
 1: Collect a dataset with Egyptian language from multiple resources, such as:
 
 
-   1.1 Google Maps
+    1.1 Google Maps
    
-   1.2 Twitter
+    1.2 Twitter
    
-   1.3 Google Play
+    1.3 Google Play
 
 
 2: Apply preprocessing.
