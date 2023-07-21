@@ -53,3 +53,6 @@ Scrap tweets from Twitter about any input user entered by the Twitter API.
 
 # GUI:
 Stramlit library in Python instead of web development, as we wanted to make a website.
+
+# How to Use:
+https://github.com/AbdelrhmanMohamed2001/Recommendation_System-GP-/blob/main/How%20to%20use%20out%20system.mp4
