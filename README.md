@@ -16,33 +16,33 @@ The user enters more than input, and the system will get the file that contains 
 
 3: Apply machine learning models such as:
 
-   3.1 SVM
+    3.1 SVM
    
-   3.2 KNN
+    3.2 KNN
    
-   3.3 Naive Bayes
+    3.3 Naive Bayes
    
-   3.4 Decision Tree
+    3.4 Decision Tree
    
-   3.5 Random Forest
+    3.5 Random Forest
    
-   3.7 Logistic Regression
+    3.7 Logistic Regression
 
 
 4: Apply deep learning models such as:
    
-   4.1 Forward Neural Network
+    4.1 Forward Neural Network
    
-   4.2 CNN
+    4.2 CNN
 
 
 5: Apply Sequential models such as:
    
-   5.1 RNN
+    5.1 RNN
    
-   5.2 GRU
+    5.2 GRU
    
-   5.3 LSTM
+    5.3 LSTM
 
 # Transfer Learning:
 Used Transformers as a pre-trained model called "CAML based on Arabic sentiment analysis."
@@ -52,5 +52,3 @@ Scrap tweets from Twitter about any input user entered by the Twitter API.
 
 # GUI:
 Stramlit library in Python instead of web development, as we wanted to make a website.
-
-
