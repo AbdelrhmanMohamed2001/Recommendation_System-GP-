@@ -37,7 +37,8 @@ The user enters more than input, and the system will get the file that contains 
 
 
 5: Apply Sequential models such as:
-   
+
+   
     5.1 RNN
    
     5.2 GRU
