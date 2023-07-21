@@ -2,6 +2,7 @@
 The user enters more than input, and the system will get the file that contains data from the drive and classify it to get the number of positive, negative, and neutral samples for each file. A pie chart represents the percentage of the three classes for each input and recommends the file name that has a high ratio between the number of positive and negative samples.
 # What did I do?
 1: Collect a dataset with Egyptian language from multiple resources, such as:
+
    1.1 Google Maps
    
    1.2 Twitter
@@ -11,6 +12,7 @@ The user enters more than input, and the system will get the file that contains 
 2: Apply preprocessing.
 
 3: Apply machine learning models such as:
+
    3.1 SVM
    
    3.2 KNN
