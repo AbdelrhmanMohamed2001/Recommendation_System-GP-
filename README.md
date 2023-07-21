@@ -56,5 +56,3 @@ Stramlit library in Python instead of web development, as we wanted to make a we
 
 # How to Use:
 https://github.com/AbdelrhmanMohamed2001/Recommendation_System-GP-/blob/main/How%20to%20use%20out%20system.mp4
-
-!(https://github.com/AbdelrhmanMohamed2001/Recommendation_System-GP-/raw/main/How%20to%20use%20out%20system.mp4)
