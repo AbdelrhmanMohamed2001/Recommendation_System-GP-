@@ -3,13 +3,16 @@ The user enters more than input, and the system will get the file that contains 
 # What did I do?
 1: Collect a dataset with Egyptian language from multiple resources, such as:
 
+
    1.1 Google Maps
    
    1.2 Twitter
    
    1.3 Google Play
 
+
 2: Apply preprocessing.
+
 
 3: Apply machine learning models such as:
 
@@ -25,11 +28,13 @@ The user enters more than input, and the system will get the file that contains 
    
    3.7 Logistic Regression
 
+
 4: Apply deep learning models such as:
    
    4.1 Forward Neural Network
    
    4.2 CNN
+
 
 5: Apply Sequential models such as:
    
